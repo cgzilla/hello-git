@@ -5,6 +5,8 @@
  */
 package gitgithubpresentation;
 
+import static java.time.Clock.system;
+
 /**
  *
  * @author cpggr3
@@ -15,6 +17,8 @@ public class GitGithubPresentation {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Hello, Git");
+        
         // TODO code application logic here
     }
     
